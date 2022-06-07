@@ -2,8 +2,8 @@
 
 <div>
 <div align = "center">
-  <img height="180em" width="60%" src="https://github-readme-stats.vercel.app/api?username=lucas-daniel2000&theme=dark&show_icons=true">
-  <img height="180em" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-daniel2000&layout=compact&theme=dark&langs_count=16">
+  <img height="180em" width="60%" src="https://github-readme-stats.vercel.app/api?username=lucas-daniel2000&theme=dracula&show_icons=true">
+  <img height="180em" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-daniel2000&layout=compact&theme=dracula&langs_count=16">
 </div>
   
 ---
