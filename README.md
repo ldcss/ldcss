@@ -21,7 +21,8 @@
   
 **Estudando** <br>
   
-<img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs&logoColor=00c8ff
+<img src="https://img.shields.io/badge/-Selenium-17B169?style=flat&logo=python&logoColor=E8E8E8">
 
 ---
   
