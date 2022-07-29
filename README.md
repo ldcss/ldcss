@@ -1,4 +1,4 @@
-## Olá, mundo! 
+## Hello, world! 
 
 <div>
 <div align = "center">
@@ -8,7 +8,7 @@
   
 ---
   
-**Conhecimento em**   
+**Experience**   
   
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
@@ -19,14 +19,14 @@
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Assembly-6e5345?style=flat&logo=asm&logoColor=#6e5345">
   
-**Estudando** <br>
+**Studying** <br>
   
 <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Selenium-17B169?style=flat&logo=selenium&logoColor=E8E8E8">
 
 ---
   
-**Redes Sociais** <br>
+**Social Medias** <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas-blue?style=flat&logo=linkedin&logoColor=white&link=https://instagram.com/jlim_slam/)](https://www.linkedin.com/in/lucas-dcs/)
 
 [![Instagram Badge](https://img.shields.io/badge/-@luc4sdnl-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://www.instagram.com/luc4sdnl/?hl=pt)
