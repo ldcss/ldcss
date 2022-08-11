@@ -3,7 +3,7 @@
 <div>
 <div align = "center">
   <img height="180em" width="60%" src="https://github-readme-stats.vercel.app/api?username=ldcss&theme=dark&show_icons=true">
-  <img height="180em" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldcss&layout=compact&theme=dark&langs_count=16">
+  <img height="180em" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldcss&layout=compact&theme=dark&langs_count=16&exclude_repo=Dog-classifier">
 </div>
   
 ---
