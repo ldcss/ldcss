@@ -9,20 +9,20 @@
 ---
   
 **Experience**   
-  
+
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Nest-000000?style=flat&logo=nestjs&logoColor=red">
+<img src="https://img.shields.io/badge/-TypeScript-fffef9?style=flat&logo=typescript&logoColor=000dbc">
+<img src="https://img.shields.io/badge/-JavaScript-fffef9?style=flat&logo=javascript&logoColor=yellow">
+<img src="https://img.shields.io/badge/-PostgreSQL-FFFFFF?style=flat&logo=postgresql&logoColor=dark-blue">
+<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=00ff00">
+<img src="https://img.shields.io/badge/-Selenium-17B169?style=flat&logo=selenium&logoColor=E8E8E8">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=00ff00">
-<img src="https://img.shields.io/badge/-JavaScript-fffef9?style=flat&logo=javascript&logoColor=000dbc">
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Assembly-6e5345?style=flat&logo=asm&logoColor=#6e5345">
   
 **Studying** <br>
   
 <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Selenium-17B169?style=flat&logo=selenium&logoColor=E8E8E8">
 
 ---
   
